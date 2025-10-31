@@ -17,7 +17,7 @@
 
 🚀 The project is deployed and live on **Netlify**! 
 <p>
-  🎯 <a href="https://simon-says-1-6.netlify.app/" target="_blank"><b>▶️ Play Live Demo</b></a>
+  🎯 <a href="https://simon-says-1-6.netlify.app/" target="_blank"><b>▶️ Play Game</b></a>
 </p>
 
 
