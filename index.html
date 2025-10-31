@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simon Says — Memory Game</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <div class="card">
+      <h1 class="title">Simon Says</h1>
+
+      <div class="status-row">
+        <div class="level">Level: <span id="level">—</span></div>
+        <div class="score">Score: <span id="score">0</span></div>
+      </div>
+
+      <div class="board" id="board" role="application" aria-label="Simon game board">
+        <button class="pad red" data-color="red" aria-label="Red"></button>
+        <button class="pad green" data-color="green" aria-label="Green"></button>
+        <button class="pad yellow" data-color="yellow" aria-label="Yellow"></button>
+        <button class="pad blue" data-color="blue" aria-label="Blue"></button>
+      </div>
+
+      <div class="controls">
+        <button id="startBtn" class="btn">Start Game</button>
+        <button id="restartBtn" class="btn ghost hidden">Restart</button>
+      </div>
+
+      <p class="hint">Press any Key or click <strong>Start Game</strong> to play</p>
+      <div id="message" class="message" aria-live="polite"></div>
+    </div>
+
+    <footer class="credit">Built with ♥</footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
