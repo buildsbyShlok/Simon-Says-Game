@@ -13,6 +13,14 @@
 </p>
 
 ---
+## 🌐 Live Demo
+
+🚀 The project is deployed and live on **Netlify**! 
+<p>
+  🎯 <a href="https://simon-says-1-6.netlify.app/" target="_blank"><b>▶️ Play Live Demo</b></a>
+</p>
+
+
 
 ## 🌟 Overview
 
@@ -67,3 +75,5 @@ No frameworks, no dependencies — just pure **HTML, CSS, and JavaScript** with 
 <p align="center">
   🧠 <i>“Simple. Clean. Addictive.”</i>  
 </p>
+
+
