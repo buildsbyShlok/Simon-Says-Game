@@ -45,7 +45,7 @@ No frameworks, no dependencies — just pure **HTML, CSS, and JavaScript** with 
 ## 🚀 Features
 
 ✅ **Start Anytime** – press any key or click “Start Game”  
-✅ **Dynamic Levels** – each round adds a new random color  
+✅ **Dynamic Levels**  – each round adds a new random color  
 ✅ **Instant Feedback** – flashing buttons and messages for each move  
 ✅ **Score Tracking** – shows your current level and total score  
 ✅ **Responsive UI** – clean, centered layout that fits any screen  
